@@ -4,6 +4,10 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:fasum/firebase_options.dart';
 import 'package:fasum/screens/home_screen.dart';
 import 'package:fasum/screens/sign_in_screen.dart';
+import 'package:google_sign_in/google_sign_in.dart';
+
+//email : kevinxd4256@mhs.mdp.ac.id
+//pass : NPM
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
